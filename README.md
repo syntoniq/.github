@@ -1,0 +1,2 @@
+# .github
+Syntoniq Inc Readme
